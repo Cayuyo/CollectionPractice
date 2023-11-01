@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\bin\Debug\net7.0\CollectionPractice.exe
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\bin\Debug\net7.0\CollectionPractice.deps.json
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\bin\Debug\net7.0\CollectionPractice.runtimeconfig.json
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\bin\Debug\net7.0\CollectionPractice.dll
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\bin\Debug\net7.0\CollectionPractice.pdb
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.AssemblyInfo.cs
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.dll
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\refint\CollectionPractice.dll
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.pdb
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\CollectionPractice.genruntimeconfig.cache
+C:\Users\andre\Desktop\VS Coding Dojo\Bootcamp C#\C# .NET (Coding Dojo)\Semana 6\CollectionPractice\obj\Debug\net7.0\ref\CollectionPractice.dll
